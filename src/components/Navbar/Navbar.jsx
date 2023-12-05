@@ -11,6 +11,9 @@ function Navbar() {
         <li>
           <Link to="/about">About</Link>
         </li>
+        <li>
+          <Link to="/tutorials">Tutorials</Link>
+        </li>
         {/* Add more navigation items for additional pages */}
       </ul>
     </nav>
