@@ -1,3 +1,7 @@
+:root {
+    --menu: url('./media/green-menu.svg');
+}
+
 .bg-body-tertiary  {
     background-color: #ecc2c1 !important;
 }
@@ -18,4 +22,12 @@
 
 .nav-link:hover {
     text-shadow: 3px 3px 3px #7c9146;
+}
+
+.navbar-toggler {
+    color: #3c4525 !important;
+}
+
+.navbar-toggler-icon {
+    background-image: var(--menu) !important;
 }
