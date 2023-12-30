@@ -1,7 +1,3 @@
-:root {
-    --menu: url('./media/green-menu.svg');
-}
-
 .bg-body-tertiary  {
     background-color: #ecc2c1 !important;
 }
@@ -26,8 +22,4 @@
 
 .navbar-toggler {
     color: #3c4525 !important;
-}
-
-.navbar-toggler-icon {
-    background-image: var(--menu) !important;
 }
