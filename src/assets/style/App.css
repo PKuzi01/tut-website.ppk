@@ -4,7 +4,7 @@
     --heading: 'Shrikhand', serif;
     --sub-heading: 'Fugaz One', sans-serif;
     --text-font: 'K2D', sans-serif;
-    --bg-light: radial-gradient(circle at 52.1% -29.6%, rgb(236, 194, 193) 0%, rgb(221, 203, 174) 100.2%);
+    --bg-light: linear-gradient(180deg, rgb(236, 194, 193) 0%, rgb(221, 203, 174) 100%);;
 }
 
 body {
@@ -16,7 +16,7 @@ h1 {
 
 h3 {
     font-family: var(--sub-heading);
-}
+}x
 
 p {
     font-family: var(--text-font);

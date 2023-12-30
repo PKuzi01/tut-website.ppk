@@ -1,3 +1,21 @@
 .bg-body-tertiary  {
     background-color: #ecc2c1 !important;
 }
+
+.navbar-brand {
+    font-family: 'Shrikhand', serif;
+    color: #3c4525;
+}
+
+.navbar-brand:hover {
+    color: #313721;
+}
+
+.nav-link {
+    font-family: 'Fugaz One', sans-serif;
+    color: #3c4525 !important;
+}
+
+.nav-link:hover {
+    text-shadow: 3px 3px 3px #7c9146;
+}
