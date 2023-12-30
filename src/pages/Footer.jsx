@@ -3,7 +3,7 @@ import "../assets/style/Footer.css";
 
 function Footer(){
     return(
-        <div className="container">
+        <div className="footer container">
            <div className="row">
             <div className="col-6">
                 <p className="footer-text">Made by yours truly, f.</p>
