@@ -1,11 +1,15 @@
 import React from "react";
+import "../assets/style/Home.css";
 
 function Home(){
     return(
         <div className="container">
-            <h1>This is my home page! Im a heading</h1>
-            <h3>Im a sub heading</h3>
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ducimus necessitatibus aliquam aperiam ut quo totam qui ratione, ipsum illo nam est ipsa quia odit modi natus obcaecati veritatis. Placeat, voluptatibus!</p>
+            <div className="header">
+                <h2>Welcome to</h2>
+                <h1>Tutorials with F.</h1>
+                <h3>For all your tutorial needs.</h3>
+            </div>
+            
         </div>
     )
 }
