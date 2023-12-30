@@ -1,0 +1,13 @@
+.row {
+    margin-top: 40px;
+}
+
+.footer-text {
+    color: #3c4525;
+}
+
+.footer-icon > a > i {
+    color: #3c4525;
+    width: 30px;
+    height: 30px;
+}
