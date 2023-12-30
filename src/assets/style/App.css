@@ -1,0 +1,19 @@
+/* Universal CSS Styling  */
+/* Variables */
+:root {
+    --heading: 'Shrikhand', serif;
+    --sub-heading: 'Fugaz One', sans-serif;
+    --text-font: 'K2D', sans-serif;
+}
+
+h1 {
+    font-family: var(--heading);
+}
+
+h3 {
+    font-family: var(--sub-heading);
+}
+
+p {
+    font-family: var(--text-font);
+}

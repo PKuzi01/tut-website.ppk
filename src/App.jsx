@@ -8,6 +8,7 @@ import Footer from "./pages/Footer";
 // import Blogs from "./pages/blogs";
 // import SignUp from "./pages/signup";
 // import Contact from "./pages/contact";
+import "./assets/style/App.css";
  
 function App() {
     return (
